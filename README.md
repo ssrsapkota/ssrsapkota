@@ -68,10 +68,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssrsapkota&show_icons=true&theme=tokyonight&hide_border=true" alt="ssrsapkota" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssrsapkota&theme=tokyonight&hide_border=true" alt="ssrsapkota" height="180"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssrsapkota&layout=compact&theme=tokyonight&hide_border=true" alt="ssrsapkota" />
 </p>
 
