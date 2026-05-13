@@ -76,7 +76,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ssrsapkota&theme=tokyonight&no-frame=true&row=1&column=7" alt="ssrsapkota" />
 </p>
 
-<h3 align="left">🟡 Pac-Man Contribution Graph:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ssrsapkota/ssrsapkota/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
-</p>
